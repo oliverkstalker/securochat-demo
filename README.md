@@ -1,2 +1,2 @@
-# secrochat-demo
+# securochat-demo
 demo for securochat meeting
